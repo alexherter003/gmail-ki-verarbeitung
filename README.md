@@ -1,5 +1,3 @@
-# gmail-ki-verarbeitung
-
 # Gmail KI-Verarbeitung
 
 ## Projektbeschreibung
